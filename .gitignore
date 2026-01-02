@@ -1,4 +1,5 @@
-stargazing\
+stargazing
+.DS_Store
 *.bsp
 *.txt
 *.jpg
