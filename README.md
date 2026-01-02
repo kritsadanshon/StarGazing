@@ -2,6 +2,8 @@
 
 ## Script ใช้งานด้วย python3 
 * ติดตั้ง python3 และ pip3 ก่อน
+* ใช้ฐานข้อมูล de421.bsp (ฐานข้อมูลตำแหน่งดวงดาว" (Ephemeris) ของทาง NASA JPL)
+* ใช้ฐานข้อมูล MPCORB CometEls.txt (ศูนย์ดาวเคราะห์น้อย ซึ่งเป็นหน่วยงานเดียวในโลกที่ได้รับมอบหมายจาก สหพันธ์ดาราศาสตร์สากล (IAU - International Astronomical Union))
 
 ```
 $ python3 -m venv stargazing
